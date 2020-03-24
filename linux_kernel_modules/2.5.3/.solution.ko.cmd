@@ -1,0 +1,1 @@
+cmd_/home/artem/projects/stepik/linux_kernel_modules/2.5.3/solution.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/artem/projects/stepik/linux_kernel_modules/2.5.3/solution.ko /home/artem/projects/stepik/linux_kernel_modules/2.5.3/solution.o /home/artem/projects/stepik/linux_kernel_modules/2.5.3/solution.mod.o ;  true
